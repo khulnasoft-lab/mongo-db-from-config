@@ -1,0 +1,4 @@
+---
+database:
+  uri: mongodb://khulnasoft_user:hunter2@server.khulnasoft.com:8421/testing
+  name: test-db
